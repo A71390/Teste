@@ -7,6 +7,6 @@ public class Ponto {
     }
 
     public void printPonto(){
-        System.out.println("( "+this.x+", "+this.y+")");
+        System.out.println("("+this.x+", "+this.y+")");
     }
 }
