@@ -1,8 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println("Update");
-        //hbdsojdalga
-        System.out.println("Update 2");
+        Ponto p = new Ponto( 1, 2);
+        p.printPonto();
     }
 }
